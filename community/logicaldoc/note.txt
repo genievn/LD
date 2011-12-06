@@ -1,0 +1,10 @@
+logicaldoc-core error:
+- Change pom.xml http://techmix.net/blog/2011/12/01/the-following-artifacts-could-not-be-resolved-javax-jmsjmsjar1-1/
+logicaldoc-webdav error:
+- Failure to find javax.jcr:jcr:jar:1.0.1
+- Change pom.xml, add repository
+<repository>
+  <id>deprecated</id>
+  <name>JBoss Deprecated</name>
+  <url>https://repository.jboss.org/nexus/content/repositories/deprecated</url>
+</repository>

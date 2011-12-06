@@ -1,0 +1,2 @@
+serviceClass: com.logicaldoc.gui.frontend.client.services.BarcodeService
+path: D4AB705CC4928DE33926E3E1744A4F81.gwt.rpc

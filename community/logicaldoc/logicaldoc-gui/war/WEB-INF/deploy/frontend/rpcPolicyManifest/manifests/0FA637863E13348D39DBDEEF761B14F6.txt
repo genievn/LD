@@ -1,0 +1,2 @@
+serviceClass: com.logicaldoc.gui.frontend.client.services.SystemService
+path: 15548F4483A0D1CD3BD3F7E3A4DEF81F.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: com.logicaldoc.gui.frontend.client.services.EmailAccountService
+path: 287FAFD10C6EE5F8A16D19F2BA32B271.gwt.rpc

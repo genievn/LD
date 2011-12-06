@@ -1,0 +1,2 @@
+serviceClass: com.logicaldoc.gui.frontend.client.services.WorkflowService
+path: 768132E7E5F180EB12710418D3ED0D26.gwt.rpc

@@ -1,0 +1,22 @@
+# Module frontend
+# RPC service class, partial path of RPC policy file
+com.logicaldoc.gui.frontend.client.services.SystemService, 15548F4483A0D1CD3BD3F7E3A4DEF81F.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.DocumentService, 082AEA199BD2461B8C95632C48CA7152.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.SignService, 88A7DEA60B02D50A5A4E122278BF5A96.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.LdapService, 53BC958397959C31108909271A6CA6B2.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.SearchService, 5196CB6513325A4F8F70AA58FE7701E4.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.FolderService, 72B17BEBD7C7DC99C97E79CB014B5448.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.SearchEngineService, 7506FB093D2B3FF3427396E5C9012A83.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.TagService, 401235EEC9D755E2A6CCB0F68516B590.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.WorkflowService, 768132E7E5F180EB12710418D3ED0D26.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.CustomIdService, C0D9D003897C6091C7C7D9B6188879F9.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.TemplateService, A9A443DC990DBB99C4140CE6AB08276A.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.AuditService, 03A1F57BCC89472968C3603D1439B43D.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.ImportFoldersService, AEE89FAC85A0165B5D68226CB2C56DE8.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.MessageService, 5F7B956C3486EC50387AD16F565AB099.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.SettingService, AE8F4346139DE6C1701A9DE403EB1559.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.ArchiveService, E1AFB6EB8D25C9F67FFE6AF39999B217.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.SecurityService, 1F5588BEEF7B3ACD39600590783A6A43.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.EmailAccountService, 287FAFD10C6EE5F8A16D19F2BA32B271.gwt.rpc
+com.logicaldoc.gui.common.client.services.InfoService, DE212FDEA630F7C69DD73B028BB63BBA.gwt.rpc
+com.logicaldoc.gui.frontend.client.services.BarcodeService, D4AB705CC4928DE33926E3E1744A4F81.gwt.rpc

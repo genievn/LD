@@ -1,0 +1,2 @@
+serviceClass: com.logicaldoc.gui.frontend.client.services.CustomIdService
+path: C0D9D003897C6091C7C7D9B6188879F9.gwt.rpc

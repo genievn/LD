@@ -1,0 +1,2 @@
+serviceClass: com.logicaldoc.gui.common.client.services.InfoService
+path: DE212FDEA630F7C69DD73B028BB63BBA.gwt.rpc

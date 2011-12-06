@@ -1,0 +1,13 @@
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+com.logicaldoc.gui.common.client.InvalidSessionException, true, true, false, false, com.logicaldoc.gui.common.client.InvalidSessionException/502761723, 502761723
+com.logicaldoc.gui.common.client.beans.GUICustomId, true, true, true, true, com.logicaldoc.gui.common.client.beans.GUICustomId/2710228214, 2710228214
+[Lcom.logicaldoc.gui.common.client.beans.GUICustomId;, true, true, false, false, [Lcom.logicaldoc.gui.common.client.beans.GUICustomId;/136510991, 136510991
+com.logicaldoc.gui.common.client.beans.GUISequence, true, true, false, false, com.logicaldoc.gui.common.client.beans.GUISequence/4144819242, 4144819242
+[Lcom.logicaldoc.gui.common.client.beans.GUISequence;, true, true, false, false, [Lcom.logicaldoc.gui.common.client.beans.GUISequence;/2025960748, 2025960748
+com.logicaldoc.gui.frontend.client.services.CustomIdService, false, false, false, false, _, 1815754190
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131

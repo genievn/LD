@@ -1,0 +1,2 @@
+serviceClass: com.logicaldoc.gui.frontend.client.services.ArchiveService
+path: E1AFB6EB8D25C9F67FFE6AF39999B217.gwt.rpc
